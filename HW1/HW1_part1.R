@@ -1,4 +1,4 @@
-setwd('/Users/fanyang/EE627_HW/HW')
+setwd('/Users/fanyang/EE627_HW/HW/HW1')
 M<-read.csv('EE627A_HW1_Data.csv',header=TRUE)
 head(M)
 theMatrix<-as.matrix(M)
